@@ -15,5 +15,8 @@
     "url": "https://github.com/MyCoopyDesign/render/issues"
   },
   "homepage": "https://github.com/MyCoopyDesign/render#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
