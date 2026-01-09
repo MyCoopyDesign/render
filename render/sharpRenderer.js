@@ -238,7 +238,7 @@ export async function renderCardImage(payload) {
       ? 0
       : Math.round((t.y ?? 0.5) * background.height);
 
-    console.log(baselineY)
+    console.log("Baseline : " + baselineY)
 
     drawMultilineTextBaselineCentered(ctx, t.value, centerX, baselineY, {
       maxWidth: Math.round(background.width * 0.86),
