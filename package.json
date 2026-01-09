@@ -17,7 +17,15 @@
   "homepage": "https://github.com/MyCoopyDesign/render#readme",
   "description": "",
   "dependencies": {
+    "canvas": "^3.2.0",
+    "cloudinary": "^2.8.0",
     "cors": "^2.8.5",
-    "express": "^5.2.1"
+    "crypto": "^1.0.1",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7",
+    "resend": "^6.7.0",
+    "sharp": "^0.34.5"
   }
 }
